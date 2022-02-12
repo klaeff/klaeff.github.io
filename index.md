@@ -2,4 +2,4 @@
 
 ![klaeff](images/klaeff.png)
 
-[next](impressum.md)
+[Impressum](impressum.md)
