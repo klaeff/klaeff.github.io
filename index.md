@@ -1,4 +1,4 @@
-## Welcome to KLÄFF
+## Welcome @ KLÄFF
 
 ![klaeff](images/klaeff.png)
 
